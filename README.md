@@ -21,19 +21,19 @@ struktura plików:
 - `requirements.txt`: plik z wymaganiami
 
 sposób uruchamiania:
-1. zainstaluj wymagane pakiety:
+1. wymagane pakiety:
    ```bash
    pip install -r requirements.txt
    ```
-2. przetwórz dane:
+2. przetwarzanie danych:
    ```bash
    python src/data_preprocessing.py
    ```
-3. trenuj modele:
+3. trenowanie modeli:
     ```bash
     python src/model_training.py
     ```
-4. ewaluuj najlepszy model:
+4. ewaluacja najlepszego modelu:
     ```bash
     python src/model_evaluation.py
    ```
