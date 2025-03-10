@@ -1,10 +1,10 @@
 opis projektu:
 
-projekt ma na celu opracowanie modelu klasyfikacyjnego do prognozowania, czy pacjent jest chory na raka piersi, na podstawie cech wyciągniętych ze zdjęć rentgenowskich.
+projekt ma na celu opracowanie modelu klasyfikacyjnego do prognozowania czy pacjent jest chory na raka piersi, na podstawie cech wyciągniętych ze zdjęć rentgenowskich
 
 cel projektu:
 
-celem projektu jest zbudowanie i ocena różnych modeli klasyfikacyjnych, aby wybrać najlepszy model do prognozowania raka piersi.
+wybranie najlepszego modelu do prognozowania raka piersi na podstawie w.w. danych
 
 struktura plików:
 - `data/`: katalog z danymi
